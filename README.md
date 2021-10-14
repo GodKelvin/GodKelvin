@@ -28,7 +28,7 @@
         <a href=https://www.linkedin.com/in/kelvin-lehrback/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </td>
     <td>
-        <p>Caso queira trocar uma ideia, jogar algo e ver memes (e porque não, contato profissional?):</P>
+        <p>Caso queira trocar uma ideia, jogar algo e ver memes (e por que não, contato profissional?):</P>
          <a href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     </td>
   </row>
