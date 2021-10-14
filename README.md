@@ -3,36 +3,37 @@
 <h3 align="center"> 
 	Pizza, music & stamina.
 </h3>
-<br>
 
-<div style="display: flex">
-<div style="width: 60%">
+<p align="center">
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height="172" src="https://github-readme-stats.vercel.app/api?username=GodKelvin&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
+    </td>
+  </row>
+</table>
+</p>
 
-![GodKelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=GodKelvin&show_icons=true&theme=radical)
-
-</div>
-<div style="width: 40%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-</div>
-
-<div style="display: flex" > 
-<div style="width: 60%">
-Contato Profissional:  <br>
-  <a href = "mailto:kelvinlg.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<div style="width: 40%">
-
-Caso queira trocar uma ideia, jogar algo e ver memes (e porque não, contato profissional?)
-<br>
- <a href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-</div>
-</div>
+<p align="center">
+<table align='left'>
+  <row>
+    <td>
+        <!-- Card -->
+        <p>Contato profissional: </P>
+        <a href = "mailto:kelvinlg.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </td>
+    <td>
+        <p>Caso queira trocar uma ideia, jogar algo e ver memes (e porque não, contato profissional?):</P>
+         <a href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    </td>
+  </row>
+</table>
+</p>
 <!--
 **GodKelvin/GodKelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
