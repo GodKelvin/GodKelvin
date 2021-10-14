@@ -27,10 +27,9 @@ Contato Profissional:  <br>
 
 <div style="width: 40%">
 
-Caso queira trocar uma ideia, jogar algo e ver memes (e porque não, contato profissional?), fique a vontade para se acomodar na Pizzaria do Dragão (: 
+Caso queira trocar uma ideia, jogar algo e ver memes (e porque não, contato profissional?)
 <br>
-
-<iframe src="https://discord.com/widget?id=530155878444433419&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+ <a href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 </div>
 </div>
