@@ -1,7 +1,7 @@
 # Hello, Galaxy! 👋 I'm Kelvin Lehrback
 <br>
 <h3 align="center"> 
-	Eterno estudante da computação. Conheci a programação através do INTROCOMP, projeto este no qual sou totalmente grato❤️!
+	Eterno estudante da computação.</br> Conheci a programação através do INTROCOMP, projeto este no qual sou totalmente grato❤️!
 	<!--
 	- 🔭 I’m currently working on ...
 	- 🌱 I’m currently learning
@@ -27,6 +27,17 @@
   </row>
 </table>
 </p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kelvin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kelvin-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+
+<!--
+  <img align="center" alt="Kelvin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kelvin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+-->
+  <img align="center" alt="Kelvin-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Kelvin-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+</div>
 
 <p align="center">
 <table align='left'>
