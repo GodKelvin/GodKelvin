@@ -1,7 +1,7 @@
 # Hello, Galaxy! 👋 I'm Kelvin Lehrback
 <br>
 <h3 align="center"> 
-	Eterno estudante da computação.</br> Conheci a programação através do INTROCOMP, projeto este no qual sou totalmente grato❤️!
+	Eterno estudante da computação.</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
 
 <table align='left'>
