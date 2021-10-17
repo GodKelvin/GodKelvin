@@ -39,8 +39,6 @@
   </row>
 </table>
 
-<br>
-
 <table align='center'>
   <row>
     <td>
