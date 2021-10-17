@@ -2,6 +2,7 @@
 <br>
 <h3 align="center"> 
 	Eterno estudante da computação.</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
+	<img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
 </h3>
 
 <!--
@@ -16,7 +17,7 @@
   </row>
 </table>
 -->
-<img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
+
 
 <table align='left'>
   <row>
