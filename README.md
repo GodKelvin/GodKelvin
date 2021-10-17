@@ -16,7 +16,6 @@
   </row>
 </table>
 -->
-<br>
 
 <div align="center">
 	<img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
