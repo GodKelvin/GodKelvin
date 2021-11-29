@@ -44,7 +44,6 @@
   <row>
     <td>
         <p>Contato profissional: </P>
-        <a href = "mailto:kelvinlg.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
         <a href=https://www.linkedin.com/in/kelvin-lehrback/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </td>
     <td>
