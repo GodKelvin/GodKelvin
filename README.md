@@ -48,7 +48,7 @@
     </td>
     <td>
         <p>Caso queira trocar uma ideia, jogar algo e ver memes (e por que não, contato profissional?):</P>
-         <a align='center href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+         <a href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     </td>
   </row>
 </table>
