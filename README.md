@@ -1,26 +1,27 @@
 
 
 # Hello, Galaxy! 👋 I'm Kelvin Lehrback
-<h3 align="left"> 
+<h3 align="center"> 
     Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
 
-<img align="right" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
-
-<br>
-<div align="left">
+<div style="display: flex">
+  <div style="width: 50%" align="center">
     <img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
-</div>
-<br>
-<p align="left">
-  <img align="center" alt="Kelvin-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kelvin-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="Kelvin-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Kelvin-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Kelvin-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-</p>
 
-<table align='left'>
+   <img align="center" alt="Kelvin-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Kelvin-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+    <img align="center" alt="Kelvin-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img align="center" alt="Kelvin-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img align="center" alt="Kelvin-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  </div>
+
+  <div style="width: 50%" align="center">
+    <img align="center" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
+  </div>
+</div>
+
+<table align='center'>
   <row>
     <td>
         <p>Contato profissional: </P>
