@@ -24,15 +24,15 @@
 -->
 
 <table align="center" style="border: none">
-  <tr>
-    <td>
+<tr>
+<td>
+<img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
+</td>
 
-    </td>
-
-    <td>
-
-    </td>
-  </tr>
+<td>
+<img src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
+</td>
+</tr>
 </table>
 
 
