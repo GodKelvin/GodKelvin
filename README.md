@@ -9,7 +9,7 @@
 <img align="right" src="./images/art_shellz.jpg" width="350"/>
 
 
-<div align="left">
+<div align="center">
   <img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
   <br>
   <img align="center" alt="Kelvin-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
