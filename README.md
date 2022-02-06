@@ -22,13 +22,13 @@
 <br>
 <div align="center">
   <p>
-    Contato profissional: 
+    <b>Contato profissional: </b>
     <br>
     <a href=https://www.linkedin.com/in/kelvin-lehrback/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
   
   <p>
-    Caso queira trocar uma ideia, jogar algo e ver memes <br>(e por que não, contato profissional?):
+    <b>Caso queira trocar uma ideia, jogar algo e ver memes <br>(e por que não, contato profissional?):</b>
     <br>
     <a href="https://discord.gg/K4aft4eTYq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </p>
