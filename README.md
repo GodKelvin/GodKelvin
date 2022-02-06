@@ -5,7 +5,7 @@
     Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
 
-<img align="right" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
+<img align="left" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
 
 <br>
 <div align="left">
