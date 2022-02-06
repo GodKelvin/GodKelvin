@@ -17,7 +17,7 @@
   </div>
 
   <div style="width: 50%">
-    <img align="center" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
+    <img align="center" src="./images/art_shellz.jpg" style="border-radius: 50px;"/>
   </div>
 </div>
 
