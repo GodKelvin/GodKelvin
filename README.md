@@ -5,7 +5,7 @@
     Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row">
   <div style="width: 50%" align="center">
     <img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
 
@@ -17,7 +17,7 @@
   </div>
 
   <div style="width: 50%">
-    <img align="center" src="./images/art_shellz.jpg" style="border-radius: 50px;"/>
+    <img align="center" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
   </div>
 </div>
 
