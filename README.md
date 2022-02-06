@@ -16,7 +16,7 @@
     <img align="center" alt="Kelvin-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </div>
 
-  <div style="width: 50%" align="center">
+  <div style="width: 50%">
     <img align="center" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
   </div>
 </div>
