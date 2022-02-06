@@ -1,7 +1,11 @@
+
+
 # Hello, Galaxy! 👋 I'm Kelvin Lehrback
 <h3 align="left"> 
     Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
+
+<img align="right" src="./images/art_shellz.jpg" width="350" style="border-radius: 50px;"/>
 
 <br>
 <div align="left">
@@ -24,7 +28,7 @@
     </td>
     <td>
         <p>Caso queira trocar uma ideia, jogar algo e ver memes (e por que não, contato profissional?):</P>
-         <a href="https://discord.gg/SWfdDhNhzp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+         <a href="https://discord.gg/K4aft4eTYq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     </td>
   </row>
 </table>
