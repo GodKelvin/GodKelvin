@@ -6,15 +6,22 @@
 </h3>
 
 <br>
+
 <div align="left">
   <ul>
     <li>Técnico em Informática pelo Instituto Federal do Espírito Santo, <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
     <li>
+      Desenvolvedor de Jogos Eletrônicos(FIC) pelo Instituto Federal do Maranhão,  <a href="https://portal.ifma.edu.br/inicio/" target="_blank">IFMA</a>.
+    </li>
+    <li>
       Atualmente cursando Bacharelado em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
+     <li>
+      E estagiário de desenvolvimento na <a href="https://www.seguroviagem.srv.br/" target="_blank">Real Seguro Viagem</a>.
+    </li>
   </ul>
-</div,>
+</div>
 
 <br>
 <!-- Stats and image -->
@@ -29,6 +36,7 @@
     <img alt="Kelvin-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img alt="Kelvin-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img alt="Kelvin-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    <img alt="Kelvin-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
   </div>
 </div>
 <br>
