@@ -2,16 +2,16 @@
 
 # Hello, Galaxy! 👋 I'm Kelvin Lehrback
 <h3 align="center"> 
-    Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
+    Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/" target="_blank">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
 
 <br>
 <div align="left">
   <ul>
-    <li>Técnico em Informática pelo Instituto Federal do Espírito Santo, <a href="https://serra.ifes.edu.br/">IFES-Serra</a>.
+    <li>Técnico em Informática pelo Instituto Federal do Espírito Santo, <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
     <li>
-      Atualmente cursando Bacharelado em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/">IFES-Serra</a>.
+      Atualmente cursando Bacharelado em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
   </ul>
 </div,>
