@@ -4,10 +4,22 @@
 <h3 align="center"> 
     Eterno estudante da computação!</br> Conheci a programação através do <a href="https://introcomp.ufes.br/">INTROCOMP</a>, projeto este no qual sou totalmente grato❤️!
 </h3>
+
+<br>
+<div align="left">
+  <ul>
+    <li>Técnico em Informática pelo Instituto Federal do Espírito Santo, <a href="https://serra.ifes.edu.br/">IFES-Serra</a>.
+    </li>
+    <li>
+      Atualmente cursando Bacharelado em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/">IFES-Serra</a>.
+    </li>
+  </ul>
+</div,>
+
 <br>
 <!-- Stats and image -->
 <div>
-  <img align="right" src="./images/art.png" width="350"/>
+  <img align="right" src="./images/art2.png" width="350"/>
 
   <div align="center">
     <img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodKelvin&layout=compact&langs_count=8&theme=radical"/>
