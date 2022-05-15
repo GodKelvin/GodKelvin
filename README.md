@@ -39,7 +39,7 @@
     <img alt="Kelvin-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
   </div>
 </div>
-<br>
+<br><br>
 <div align="center">
   <p>
     <b>Contato profissional: </b>
