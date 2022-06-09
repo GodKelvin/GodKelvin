@@ -18,7 +18,7 @@
       Atualmente cursando Bacharelado em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
      <li>
-      E Estagiário de Desenvolvimento na <a href="https://www.seguroviagem.srv.br/" target="_blank">Real Seguro Viagem</a>.
+      E Desenvolvedor de Software na <a href="https://www.seguroviagem.srv.br/" target="_blank">Real Seguro Viagem</a>.
     </li>
   </ul>
 </div>
