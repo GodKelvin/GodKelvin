@@ -15,7 +15,7 @@
       Desenvolvedor de Jogos Eletrônicos(FIC) pelo Instituto Federal do Maranhão,  <a href="https://portal.ifma.edu.br/inicio/" target="_blank">IFMA</a>.
     </li>
     <li>
-      Atualmente cursando Bacharelado em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
+      Bacharel em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
      <li>
       E Desenvolvedor de Software na <a href="https://www.seguroviagem.srv.br/" target="_blank">Real Seguro Viagem</a>.
