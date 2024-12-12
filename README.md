@@ -17,6 +17,9 @@
     <li>
       Bacharel em Sistemas de Informação, também pelo <a href="https://serra.ifes.edu.br/" target="_blank">IFES-Serra</a>.
     </li>
+    <li>
+      Cursando Pós-Graduação em Inteligência Artificial e Ciência de Dados pela Universidade Federal do Espírito Santo, <a href="https://www.ufes.br/" target="_blank">UFES</a>.
+    </li>
      <li>
       E Desenvolvedor de Software na <a href="https://www.seguroviagem.srv.br/" target="_blank">Real Seguro Viagem</a>.
     </li>
