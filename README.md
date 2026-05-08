@@ -31,7 +31,7 @@
 <div>
   <img align="right" src="./images/art3.png" width="350"/>
 
-  <div align="center">
+  <div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
     <br>
     <img alt="Kelvin-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img alt="Kelvin-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
